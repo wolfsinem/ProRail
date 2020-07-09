@@ -1,0 +1,39 @@
+#stm_sap_meldnr; RVO nummer
+
+stm_geo_mld; Geo code van melding
+stm_equipm_soort_mld; Equipment soort
+stm_prioriteit; Prioriteitsindicatie
+
+stm_contractgeb_gst; Het contract gebied
+stm_techn_gst; Techniekveld melding
+
+stm_oorz_groep; Oorzaak groep
+stm_oorz_code; Oorzaak code
+
+stm_tao_indicator; Gerelateerd aan mutatie in database (er kunnen dus meerder regels voor dezelfde RVO, maar met verschillende, informatie aanwezig zijn door mutaties). TAO: Treindienst Aantastende Onregelmatigheid.
+
+stm_tao_indicator_vorige; Gerelateerd aan mutatie in database (er kunnen dus meerder regels voor dezelfde RVO, maar met verschillende, informatie aanwezig zijn door mutaties). TAO: Treindienst Aantastende Onregelmatigheid.
+
+stm_tao_soort_mutatie; Gerelateerd aan mutatie in database (er kunnen dus meerder regels voor dezelfde RVO, maar met verschillende, informatie aanwezig zijn door mutaties). TAO: Treindienst Aantastende Onregelmatigheid.
+
+stm_tao_telling_mutatie; Gerelateerd aan mutatie in database (er kunnen dus meerder regels voor dezelfde RVO, maar met verschillende, informatie aanwezig zijn door mutaties). TAO: Treindienst Aantastende Onregelmatigheid.
+
+stm_tao_beinvloedbaar_indicator; Gerelateerd aan mutatie in database (er kunnen dus meerder regels voor dezelfde RVO, maar met verschillende, informatie aanwezig zijn door mutaties). TAO: Treindienst Aantastende Onregelmatigheid.
+
+stm_sap_meld_ddt; Datum Tijdstip van melding
+
+stm_sap_storeind_ddt; Datum Tijdstip van einde storing
+
+stm_aanngeb_ddt; Datum Tijdstip van waneer aannemer gebeld is. (kan rommel bevatten)
+
+stm_aanntpl_ddt; Datum Tijdstip van waneer aannemer terplaatse is
+
+stm_progfh_in_ddt; datum en tijd prognose
+stm_progfh_in_invoer_ddt; invoer datum en tijd prognose
+
+stm_progfh_in_duur; ?Duur FHT
+stm_progfh_gw_ddt; ?
+
+stm_fh_ddt; Datum en Tijd van functieherstel
+stm_fh_duur; Duur van functieherstel
+stm_fh_status; status van funtieherstel
